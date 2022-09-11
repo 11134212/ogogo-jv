@@ -1,0 +1,5 @@
+@media all and (max-width: 576px){
+    .block-2-text h1{
+        text-align: center;
+    }
+}
